@@ -12,7 +12,7 @@ This is a Google homepage clone built using HTML and CSS.
 - CSS
 
 ## 🌐 Live Demo
-(Add your GitHub Pages link here)
+https://kunal-06-v.github.io/google-clone/
 
 ## 📌 Author
 Kunal Varal
